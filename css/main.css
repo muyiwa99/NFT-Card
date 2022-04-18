@@ -1,0 +1,35 @@
+body {
+  background: #0d1a2d; }
+
+.container {
+  margin: 4rem auto;
+  max-width: 400px; }
+
+.br {
+  border-radius: 0.3rem; }
+
+header .card {
+  padding: 2rem;
+  background: #15273f; }
+  header .card .equi {
+    width: 100%;
+    height: 60%; }
+  header .card h2 {
+    color: #fff; }
+  header .card p {
+    color: #adadad; }
+  header .card .price {
+    display: flex;
+    gap: 8rem;
+    font-size: 1.1rem; }
+  header .card .line-1 {
+    height: 2px;
+    background: #adadad;
+    margin: 1rem; }
+  header .card .profile {
+    display: flex;
+    gap: 2rem; }
+    header .card .profile img {
+      width: 20%;
+      border: #fff 1px solid;
+      border-radius: 50%; }
